@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 100;
+}
+h4 {
+    color: red;
+}
+#camera {
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}
+img {
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 pink;
+}
+.column {
+    display: inline;
+    padding: 10px;
+}
